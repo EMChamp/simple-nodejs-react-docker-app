@@ -21,7 +21,7 @@ This project is intended as a simple starting application for Node.js and React.
 Included is a docker-compose.yml file to make getting started simple.
 
 1 **Start the development server:**
-`docker-compose up`
+  `docker-compose up`
 
 2. **Open the application:**
-Open your browser and go to `http://localhost:5041` to view the application.
+  Open your browser and go to `http://localhost:5041` to view the application.
