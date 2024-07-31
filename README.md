@@ -12,11 +12,16 @@ This project is intended as a simple starting application for Node.js and React.
 - **Backend:**
   - Express.js
   - Node.js
+ 
+- **Containers:**
+   - [Docker](https://docs.docker.com/engine/install/)
+   - [Docker-Compose](https://docs.docker.com/compose/install/)
   
 ## Getting Started
+We've included a docker-compose
 
 1 **Start the development server:**
 docker-compose up
 
 2. **Open the application:**
-- Open your browser and go to `http://localhost:5041` to view the application.
+Open your browser and go to `http://localhost:5041` to view the application.
