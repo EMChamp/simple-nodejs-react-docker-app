@@ -16,7 +16,7 @@ This project is intended as a simple starting application for Node.js and React.
 - **Containers:**
    - [Docker](https://docs.docker.com/engine/install/)
    - [Docker-Compose](https://docs.docker.com/compose/install/)
-  
+
 ## Getting Started
 Included is a docker-compose.yml file to make getting started simple.
 
@@ -25,3 +25,7 @@ Included is a docker-compose.yml file to make getting started simple.
 
 2. **Open the application:**
   Open your browser and go to `http://localhost:5041` to view the application.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
